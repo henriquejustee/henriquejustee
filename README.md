@@ -15,7 +15,7 @@
 
 #### Frameworks
 
->[![My Skills](https://skillicons.dev/icons?i=django,react,tailwind,flutter)](https://skillicons.dev)
+>[![My Skills](https://skillicons.dev/icons?i=django,sequelize,tailwind,express,prisma)](https://skillicons.dev)
 
 
 #### Data Bases 
