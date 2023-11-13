@@ -2,7 +2,7 @@
 
 ## About Me
 
-***My name is Aëlys, i'm a 16yo Full-Stack developer, i'm better at back-end than front-end.***
+***My name is Aëlys, i'm a 16yo backend student.***
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/1122714514220142672)
 
