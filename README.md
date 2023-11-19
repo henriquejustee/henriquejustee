@@ -2,7 +2,7 @@
 
 ## About Me
 
-***My name is Aëlys, i'm a 16yo backend student.***
+***My name is Aëlys, i'm a newbie software developer being the self-taught student, and my message for you is- just find what you love to do when you are stuck like your social relationships, try to extract gold from your sweat even if it is covered by your stinky side***
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/1122714514220142672)
 
