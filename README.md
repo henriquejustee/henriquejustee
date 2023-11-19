@@ -2,9 +2,11 @@
 
 ## About Me
 
-***My name is Aëlys, i'm a newbie software developer being the self-taught student, and my message for you is- 
-"just find what you love to do when you are stuck like your social relationships, try to extract gold from your sweat even if it is covered by your stinky side"***
+### My name is Aëlys, i'm a newbie software developer being the self-taught student, and my message for you is- 
 
+- ***" Just find what you love to do when you are stuck like your social relationships, try to extract gold from your sweat even if it is covered by your stinky side "***
+- ***" Delete your shitty Windows from your life, please, use most based Linux ever with the most insane dotfiles ever, feel the power "***
+- ***" Learn a bit of everything, see everything and it will be easier to find what you really like to do "***
 ![Discord Presence](https://lanyard.cnrad.dev/api/1122714514220142672)
 
 
