@@ -1,15 +1,17 @@
-
  #  Heyooo there~ 👋
 
-## About Me
+## Aëlys_profile.txt
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LysImbecile&show_icons=true&theme=dracula)
+
 
 ### My name is Aëlys, i'm a newbie self-taught software developer student , and my message for you is- 
 
-- ***" Just find what you love to do when you are stuck like your social relationships, try to extract gold from your sweat even if it is covered by your stinky side "***
+1. ***" Just find what you love to do when you are stuck like your social relationships, try to extract gold from your sweat even if it is covered by your stinky side "***
 
-- ***" Delete your shitty Windows from your life, please, use most based Linux ever with the most insane dotfiles ever, feel the power "***
+2.  ***" Delete your shitty Windows from your life, please, use most based Linux ever with the most insane dotfiles ever, feel the power "***
 
-- ***" Learn a bit of everything, see everything and it will be easier to find what you really like to do "***
+ 3. ***" Learn a bit of everything, see everything and it will be easier to find what you really like to do "***
 
 ## Daily work and *vibing* ambient~ 
    ![image](https://github.com/LysImbecile/LysImbecile/assets/136639736/371518c6-4fb4-46d5-8a2d-38dd248fa8a0)
