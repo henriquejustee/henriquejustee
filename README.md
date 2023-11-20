@@ -14,7 +14,8 @@
  3. ***" Learn a bit of everything, see everything and it will be easier to find what you really like to do "***
 
 ## Daily work and *vibing* ambient~ 
-   ![image](https://github.com/LysImbecile/LysImbecile/assets/136639736/371518c6-4fb4-46d5-8a2d-38dd248fa8a0)
+   ![image](https://github.com/LysImbecile/LysImbecile/assets/136639736/87c24825-808f-4631-90d6-c1db01b0b0fa)
+
    - EndeavourOS - Hyprland as WM
    - Zsh 
    - Astronvim 
