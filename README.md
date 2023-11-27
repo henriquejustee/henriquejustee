@@ -33,7 +33,7 @@
 
 ### Programming languages / Runtimes
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,py)
+![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,py,bash)
 
 
 ### Frameworks
@@ -47,6 +47,6 @@
 
 ### Tools
 
-![My Skills](https://skillicons.dev/icons?i=docker,github,idea,postman,vscode)
+![My Skills](https://skillicons.dev/icons?i=docker,github,idea,postman,vscode,git,linux,neovim,vercel)
 
 
