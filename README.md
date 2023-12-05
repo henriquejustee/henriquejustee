@@ -5,15 +5,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueJuste01&show_icons=true&theme=dracula)
 
 
-## Daily work and *vibing* ambient~ 
-   ![image](https://github.com/LysImbecile/LysImbecile/assets/136639736/87c24825-808f-4631-90d6-c1db01b0b0fa)
-
-   - EndeavourOS - Hyprland as WM
-   - Zsh 
-   - Astronvim 
-   - Kitty as default terminal 
-   - Waybar 
-   
    
 ## My real-time status... 
 
