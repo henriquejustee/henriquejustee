@@ -4,3 +4,4 @@
 
 
 
+![Stack_Profile](https://github.com/LysImbecile/LysImbecile/assets/136639736/38e430f0-f03c-44e3-b1bd-81286edd0f37)
