@@ -1,14 +1,12 @@
- #  Heyooo there~ 👋
+ ![I’m](https://github.com/LysImbecile/LysImbecile/assets/136639736/95b0a19f-590a-4ef7-ac27-2beb6feba664)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LysImbecile&show_icons=true&theme=dracula)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LysImbecile&show_icons=true&theme=dracula) ![Discord Presence](https://lanyard.cnrad.dev/api/1122714514220142672)
 
 
-   
-## My real-time status... 
 
-![Discord Presence](https://lanyard.cnrad.dev/api/1122714514220142672)
 
 
 # Knowledge
