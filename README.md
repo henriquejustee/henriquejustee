@@ -26,5 +26,5 @@ I am Henrique, people call me Henri, i started my technical course at SENAC-RS. 
 ![Sqlite](https://img.shields.io/badge/-sqlite-darkblue?style=flat-square&logo=sqlite)
 ![Git](https://img.shields.io/badge/-DiscordJs-black?style=flat-square&logo=discord.js)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LysImbecile&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=henriquejustee&count_private=true&show_icons=true&include_all_commits=true)
 
