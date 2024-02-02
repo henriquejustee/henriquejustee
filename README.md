@@ -4,6 +4,8 @@ I am Henrique, people call me Henri, i started my technical course at SENAC-RS. 
 
 
 [![Gmail Badge](https://img.shields.io/badge/-aelysch@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aelysch@proton.me)](mailto:aelysch@proton.me)
+![Whatsapp Badge](https://img.shields.io/badge/-+5519989770025-c14438?style=flat-square&logo=whatsapp&color=black&logoColor=green)
+![Whatsapp Badge](https://img.shields.io/badge/-a3lys-c14438?style=flat-square&logo=discord&color=purple&logoColor=blue)
 
 ## ⚡ Technologies
 
