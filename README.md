@@ -13,17 +13,24 @@ I know these technologies and languages, but it doesn't mean that i use every si
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js)
 ![Bootstrap](https://img.shields.io/badge/-Tailwind-563D7C?style=flat-square&logo=tailwindcss)
-![MySQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+![MySQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 ![GitLab](https://img.shields.io/badge/-Express-FCA121?style=flat-square&logo=express)
 ![Prisma](https://img.shields.io/badge/-Prisma-darkblue?style=flat-square&logo=prisma)
 
 Currently learning and focusing. 
 
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+Learning by Hobby.
+
+![Rust](https://img.shields.io/badge/-Rust-yellow?style=flat-square&logo=rust)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=henriquejustee&count_private=true&show_icons=true&include_all_commits=true)
+
+
+
 
