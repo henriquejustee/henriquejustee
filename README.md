@@ -28,8 +28,7 @@ Learning by Hobby.
 
 ![Rust](https://img.shields.io/badge/-Rust-yellow?style=flat-square&logo=rust)
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=henriquejustee&count_private=true&show_icons=true&include_all_commits=true)
+ ![Snake animation](https://github.com/kitsunebishi/kitsunebishi/blob/output/github-contribution-grid-snake.svg)
 
 
 
