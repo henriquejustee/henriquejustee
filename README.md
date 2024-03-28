@@ -1,6 +1,6 @@
 ## I'm glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Henrique, people call me Henri, i'm doing a technical course at SENAC-RS. I am a tech enthusiast & a Rust language fan. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Henri, people call me as Aelys. I am a tech enthusiast & a Rust language fan. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 
 [![Gmail Badge](https://img.shields.io/badge/-aelysch@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aelysch@proton.me)](mailto:aelysch@proton.me)
@@ -15,7 +15,7 @@ I know these technologies and languages, but it doesn't mean that i use every si
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js)
 ![Bootstrap](https://img.shields.io/badge/-Tailwind-563D7C?style=flat-square&logo=tailwindcss)
-![MySQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mongodb)
 ![GitLab](https://img.shields.io/badge/-Express-FCA121?style=flat-square&logo=express)
 ![Prisma](https://img.shields.io/badge/-Prisma-darkblue?style=flat-square&logo=prisma)
 
