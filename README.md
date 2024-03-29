@@ -12,10 +12,9 @@ I know these technologies and languages, but it doesn't mean that i use every si
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js)
 ![Bootstrap](https://img.shields.io/badge/-Tailwind-563D7C?style=flat-square&logo=tailwindcss)
-![MySQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![GitLab](https://img.shields.io/badge/-Express-FCA121?style=flat-square&logo=express)
 ![Prisma](https://img.shields.io/badge/-Prisma-darkblue?style=flat-square&logo=prisma)
 
