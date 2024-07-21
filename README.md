@@ -20,12 +20,9 @@ I know these technologies and languages, but it doesn't mean that i use every si
 
 Currently learning and focusing. 
 
-![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=C)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
 
-Learning by Hobby.
-
-![Rust](https://img.shields.io/badge/-Rust-yellow?style=flat-square&logo=rust)
 
 
 
