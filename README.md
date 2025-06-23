@@ -18,10 +18,6 @@ I know these technologies and languages, but it doesn't mean that i use every si
 ![GitLab](https://img.shields.io/badge/-Express-FCA121?style=flat-square&logo=express)
 ![Prisma](https://img.shields.io/badge/-Prisma-darkblue?style=flat-square&logo=prisma)
 
-Currently learning and focusing. 
-
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=C)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
 
 
 
